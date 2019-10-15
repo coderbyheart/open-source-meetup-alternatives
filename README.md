@@ -5,6 +5,7 @@
 | [Agorakit](https://agorakit.org/) | [GitHub](https://github.com/philippejadin/agorakit) | mature | PHP | GPLv3 |
 | [attendize](https://www.attendize.com/) | [GitHub](https://github.com/Attendize/Attendize) | mature | PHP | Attribution Assurance License |
 | Chapter by freeCodeCamp | [GitHub](https://github.com/freeCodeCamp/chapter) | new | JavaScript | BSD 3-Clause | 
+| [eventoL](http://eventol.github.io/eventoL/) | [GitHub](https://github.com/eventoL/eventoL) | mature | Python | GPLv3 |
 | [GetTogether](https://gettogether.community/) | [GitHub](https://github.com/GetTogetherComm/GetTogether) | mature | Python | BSD 2-Clause | 
 | [Mobilizon](https://joinmobilizon.org/en/) | [framagit.org](https://framagit.org/framasoft/mobilizon/) | in development | Elixir | AGPL | 
 | [on_ruby](https://www.onruby.eu/) | [GitHub](https://github.com/phoet/on_ruby) | mature | Ruby | (extended) Beer-ware | 
