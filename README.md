@@ -1,5 +1,7 @@
 # Open-Source Alternatives to Meetup
 
+> :information_source: Pull-requests are welcome!
+
 | Name | Source | Maturity | Backend Language | License |
 |------|--------|----------|----------|---------|
 | [Agorakit](https://agorakit.org/) | [GitHub](https://github.com/philippejadin/agorakit) | mature | PHP | GPLv3 |
