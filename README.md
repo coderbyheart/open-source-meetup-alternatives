@@ -5,3 +5,4 @@
 - Chapter by freeCodeCamp ([Source](https://github.com/freeCodeCamp/chapter)) *new*, JavaScript
 - [GetTogether](https://gettogether.community/) ([Source](https://github.com/GetTogetherComm/GetTogether)), *mature*, Python
 - [Mobilizon](https://joinmobilizon.org/en/) ([Source](https://framagit.org/framasoft/mobilizon/)), *in development*, Elixir
+- Open Event (Source: [Frontend](https://github.com/fossasia/open-event-frontend), [Backend](https://github.com/fossasia/open-event-server)) *mature*, Python
