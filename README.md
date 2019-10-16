@@ -2,7 +2,7 @@
 
 > :information_source: Pull-requests are welcome!
 
-| Name | Source | Maturity | Backend Language | License |
+| Name | Source | Maturity¹ | Backend Language | License |
 |------|--------|----------|----------|---------|
 | [Agorakit](https://agorakit.org/) | [GitHub](https://github.com/philippejadin/agorakit) | mature | PHP | GPLv3 |
 | [attendize](https://www.attendize.com/) | [GitHub](https://github.com/Attendize/Attendize) | mature | PHP | Attribution Assurance License |
@@ -16,6 +16,8 @@
 | Open Event | GitHub: [Frontend](https://github.com/fossasia/open-event-frontend), [Backend](https://github.com/fossasia/open-event-server) | mature | Python | Apache 2.0 & GPLv3 |
 | [Open Tech Calendar](https://opentechcalendar.co.uk/) | [GitLab](https://gitlab.com/opentechcalendar)  | mature | PHP | BSD 3-Clause |
 | [OpenKi](https://openki.net/) | [Gitlab](https://gitlab.com/Openki/Openki/) | mature | MeteorJS | AGPLv3 |
+
+¹: _mature_ = the project is actively used by groups, _new_ = this is a new project with no usable software, _in development_ = usable software exists, but is not ready for general use
 
 ## See also
 
