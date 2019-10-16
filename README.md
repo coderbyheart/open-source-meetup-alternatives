@@ -4,6 +4,7 @@
 
 | Name | Source | Maturity | Backend Language | License |
 |------|--------|----------|----------|---------|
+| [OpenKi](https://openki.net/) | [Gitlab](https://gitlab.com/Openki/Openki/) | mature? | Meteor.js / JS | AGPLv3
 | [Agorakit](https://agorakit.org/) | [GitHub](https://github.com/philippejadin/agorakit) | mature | PHP | GPLv3 |
 | [attendize](https://www.attendize.com/) | [GitHub](https://github.com/Attendize/Attendize) | mature | PHP | Attribution Assurance License |
 | Chapter by freeCodeCamp | [GitHub](https://github.com/freeCodeCamp/chapter) | new | JavaScript | BSD 3-Clause | 
