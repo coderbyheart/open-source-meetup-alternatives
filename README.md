@@ -14,7 +14,7 @@
 | [Mobilizon](https://joinmobilizon.org/en/) | [framagit.org](https://framagit.org/framasoft/mobilizon/) | in development | Elixir | AGPL | 
 | [on_ruby](https://www.onruby.eu/) | [GitHub](https://github.com/phoet/on_ruby) | mature | Ruby | (extended) Beer-ware | 
 | Open Event | GitHub: [Frontend](https://github.com/fossasia/open-event-frontend), [Backend](https://github.com/fossasia/open-event-server) | mature | Python | Apache 2.0 & GPLv3 | 
-| [Open Tech Calendar](https://opentechcalendar.co.uk/) | [GitLab](https://gitlab.com/opentechcalendar)  | mature | PHP, HTML JS | 3-clause BSD | 
+| [Open Tech Calendar](https://opentechcalendar.co.uk/) | [GitLab](https://gitlab.com/opentechcalendar)  | mature | PHP | BSD 3-Clause | 
 
 ## See also
 
