@@ -18,7 +18,7 @@
 | [Open Tech Calendar](https://opentechcalendar.co.uk/) | [GitLab](https://gitlab.com/opentechcalendar)                                                                                 | mature         | PHP              | BSD 3-Clause                  |
 | [OpenKi](https://openki.net/)                         | [Gitlab](https://gitlab.com/Openki/Openki/)                                                                                   | mature         | MeteorJS         | AGPLv3                        |
 
-¹: _mature_ = the project is actively used by groups, _new_ = this is a new project with no usable software, _in development_ = usable software exists, but is not ready for general use, _open source_ = self hosted software used to build your own platform
+¹: _mature_ = the project is actively used by groups, _new_ = this is a new project with no usable software, _in development_ = usable software exists, but is not ready for general use
 
 ## See also
 
