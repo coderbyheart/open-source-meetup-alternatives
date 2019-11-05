@@ -17,8 +17,8 @@
 | Open Event                                            | GitHub: [Frontend](https://github.com/fossasia/open-event-frontend), [Backend](https://github.com/fossasia/open-event-server) | mature         | Python           | Apache 2.0 & GPLv3            |
 | [Open Tech Calendar](https://opentechcalendar.co.uk/) | [GitLab](https://gitlab.com/opentechcalendar)                                                                                 | mature         | PHP              | BSD 3-Clause                  |
 | [OpenKi](https://openki.net/)                         | [Gitlab](https://gitlab.com/Openki/Openki/)                                                                                   | mature         | MeteorJS         | AGPLv3                        |
-| [OSEM](https://osem.io/)                              | [GitHub](https://github.com/openSUSE/osem)                                                                                   | mature         | Ruby             | MIT                           |
-| [Pretix](https://pretix.eu/)                         | [Gitlab](https://gitlab.com/pretix/pretix/)                                                                                   | mature         | Python         | Apache 2.0                        |
+| [OSEM](https://osem.io/)                              | [GitHub](https://github.com/openSUSE/osem)                                                                                    | mature         | Ruby             | MIT                           |
+| [Pretix](https://pretix.eu/)                          | [Gitlab](https://gitlab.com/pretix/pretix/)                                                                                   | mature         | Python           | Apache 2.0                    |
 
 ¹: _mature_ = the project is actively used by groups, _new_ = this is a new project with no usable software, _in development_ = usable software exists, but is not ready for general use
 
