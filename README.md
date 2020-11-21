@@ -22,7 +22,7 @@
 | [OSEM](https://osem.io/)                              | [GitHub](https://github.com/openSUSE/osem)                                                                                    | mature         | Ruby             | MIT                           |
 | [Pretix](https://pretix.eu/)                          | [Gitlab](https://github.com/pretix/pretix)                                                                                    | mature         | Python           | Apache 2.0                    |
 
-¹: _mature_ = the project is actively used by groups, _new_ = this is a new project with no usable software, _in development_ = usable software exists, but is not ready for general use
+¹: _mature_ = the project is actively used by groups, _new_ = this is a new project with no usable software, _in development_ = usable software exists, but is not ready for general use, _defunct_ = was under development, but more than 1 year without commits
 
 ## See also
 
