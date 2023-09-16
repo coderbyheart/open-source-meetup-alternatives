@@ -34,4 +34,4 @@
 
 ## See also
 
-<https://phacks.dev/meetup-com-alternatives>
+<https://www.phacks.dev/articles/meetup-com-alternatives>
