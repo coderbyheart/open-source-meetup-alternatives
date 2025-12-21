@@ -32,6 +32,7 @@
 | [OSEM](https://osem.io/)                                       | [GitHub](https://github.com/openSUSE/osem)                                                                                    | mature         | Ruby             | MIT                           |
 | [Pretix](https://pretix.eu/)                                   | [Gitlab](https://github.com/pretix/pretix)                                                                                    | mature         | py               | Apache 2.0                    |
 | [Upcoming](https://upcoming.org/)                              | [GitHub](https://github.com/upcoming/upcoming-www)                                                                            | mature         | js               | Apache 2.0                    |
+| [wp-event-manager](https://wp-eventmanager.com/)               | [GitHub](https://github.com/wpeventmanager/wp-event-manager)                                                                  | mature         | php, wp          | GPLv3                         |
 
 ## Table Keys
 
