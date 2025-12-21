@@ -11,6 +11,7 @@
 | [Communecter](https://www.communecter.org/)                    | [GitHub](https://github.com/pixelhumain/communecter)                                                                          | inactive       | PHP              | Apache 2.0                    |
 | Epicyon                                                        | [GitLab](https://gitlab.com/bashrc2/epicyon)                                                                                  | new            | py, ap           | AGPLv3                        |
 | [eventoL](http://eventol.github.io/eventoL/)                   | [GitHub](https://github.com/eventoL/eventoL)                                                                                  | mature         | py               | GPLv3                         |
+| [Events Made Easy](https://www.e-dynamics.be/wordpress/)       | [GitHub](https://github.com/liedekef/events-made-easy/)                                                                       | mature         | PHP, wp          | GPLv2.0                       |
 | [Friendica](https://friendi.ca/)                               | [GitHub](https://github.com/friendica/friendica)                                                                              | mature         | PHP              | AGPLv3                        |
 | [Gancio](https://gancio.org/)                                  | [Framagit](https://framagit.org/les/gancio)                                                                                   | [instances](https://gancio.org/instances)  | js, ap | AGPLv3      |
 | [Gathio](https://gath.io/)                                     | [GitHub](https://github.com/lowercasename/gathio)                                                                             | mature         | js               | GPLv3                         |
@@ -53,7 +54,10 @@ For most projects, when a programming language is listed, it's referring to the 
 | js  | JavaScript  |
 | mjs | MeteorJS    |
 | py  | Python      |
+| wp  | WordPress   |
 
 ## See also
 
-<https://www.phacks.dev/articles/meetup-com-alternatives>
+- <https://www.phacks.dev/articles/meetup-com-alternatives>
+- <https://codeberg.org/fediverse/delightful-fediverse-experience#events-planning>
+- [this forum thread](https://socialhub.activitypub.rocks/t/federated-events/305/20)
