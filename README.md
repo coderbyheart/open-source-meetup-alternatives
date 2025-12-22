@@ -2,18 +2,18 @@
 
 > :information_source: Pull-requests are welcome!
 
-| Name                                                           | Source                                                         | Maturity¹ | Tech²      | License               |
-| -------------------------------------------------------------- | -------------------------------------------------------------- | --------- | ---------- | --------------------- |
+| Name                                                           | Source                                                         | Maturity¹ | Tech²      | License               | ActivityPub³       |
+| -------------------------------------------------------------- | -------------------------------------------------------------- | --------- | ---------- | --------------------- | ------------------ |
 | [Agorakit](https://agorakit.org/)                              | [GitHub](https://github.com/agorakit/agorakit)                 | mature    | PHP        | GPLv3                 |
 | [attendize](https://www.attendize.com/)                        | [GitHub](https://github.com/Attendize/Attendize)               | inactive  | PHP        | Attribution Assurance |
 | Calendar.social                                                | [gitea](https://gitea.polonkai.eu/gergely/calendar-social)     | inactive  | Python     | AGPLv3                |
 | Chapter by freeCodeCamp                                        | [GitHub](https://github.com/freeCodeCamp/chapter)              | inactive  | JavaScript | BSD 3-Clause          |
 | [Communecter](https://www.communecter.org/)                    | [GitHub](https://github.com/pixelhumain/communecter)           | inactive  | PHP        | Apache 2.0            |
-| Epicyon                                                        | [GitLab](https://gitlab.com/bashrc2/epicyon)                   | new       | Python     | AGPLv3                |
+| Epicyon                                                        | [GitLab](https://gitlab.com/bashrc2/epicyon)                   | new       | Python     | AGPLv3                | :white_check_mark: |
 | [eventoL](http://eventol.github.io/eventoL/)                   | [GitHub](https://github.com/eventoL/eventoL)                   | inactive  | Python     | GPLv3                 |
 | [Events Made Easy](https://www.e-dynamics.be/wordpress/)       | [GitHub](https://github.com/liedekef/events-made-easy/)        | mature    | PHP        | GPLv2.0               |
 | [Friendica](https://friendi.ca/)                               | [GitHub](https://github.com/friendica/friendica)               | mature    | PHP        | AGPLv3                |
-| [Gancio](https://gancio.org/)                                  | [Framagit](https://framagit.org/les/gancio)                    | mature    | JavaScript | AGPLv3                |
+| [Gancio](https://gancio.org/)                                  | [Framagit](https://framagit.org/les/gancio)                    | mature    | JavaScript | AGPLv3                | :white_check_mark: |
 | [Gathio](https://gath.io/)                                     | [GitHub](https://github.com/lowercasename/gathio)              | mature    | JavaScript | GPLv3                 |
 | GetTogether                                                    | [GitHub](https://github.com/GetTogetherComm/GetTogether)       | inactive  | Python     | BSD 2-Clause          |
 | Gospeak                                                        | [GitHub](https://github.com/loicknuchel/gospeak)               | inactive  | Scala      | Apache 2.0            |
@@ -24,7 +24,7 @@
 | [Lauti](https://lauti.org/)                                    | [Codeberg](https://codeberg.org/Klasse-Methode/lauti)          | mature    | Golang     | AGPLv3                |
 | [Meetdown](https://meetdown.org/)                              | [GitHub](https://github.com/structr/meetdown)                  | inactive  | Structr    | Apache 2.0            |
 | Meetup Alternative                                             | [GitHub](https://github.com/Thinkmill/meetup-alternative)      | inactive  | JavaScript | unlicensed            |
-| [Mobilizon](https://mobilizon.org/)                            | [Framagit](https://framagit.org/kaihuri/mobilizon)             | mature    | Elixir     | AGPLv3                |
+| [Mobilizon](https://mobilizon.org/)                            | [Framagit](https://framagit.org/kaihuri/mobilizon)             | mature    | Elixir     | AGPLv3                | :white_check_mark: |
 | [on_ruby](https://www.onruby.eu/)                              | [GitHub](https://github.com/phoet/on_ruby)                     | mature    | Ruby       | (extended) Beer-ware  |
 | Open Event                                                     | [GitHub](https://github.com/fossasia/open-event-server)        | mature    | Python     | Apache 2.0 & GPLv3    |
 | [Open Tech Calendar](https://opentechcalendar.co.uk/)          | [GitLab](https://gitlab.com/opentechcalendar/opentechcalendar) | inactive  | PHP        | BSD 3-Clause          |
@@ -47,6 +47,10 @@
 ### ²: Technologies
 
 For most projects, when a programming language is listed, it's referring to the primary language used for the server-side (backend) used by the project.
+
+### ³: ActivityPub
+
+Implements support for [ActivityPub](https://www.w3.org/TR/activitypub/).
 
 ## See also
 
