@@ -9,6 +9,8 @@
 | Calendar.social                                                | [gitea](https://gitea.polonkai.eu/gergely/calendar-social)     | inactive  | Python     | AGPLv3                |
 | Chapter by freeCodeCamp                                        | [GitHub](https://github.com/freeCodeCamp/chapter)              | inactive  | JavaScript | BSD 3-Clause          |
 | [Communecter](https://www.communecter.org/)                    | [GitHub](https://github.com/pixelhumain/communecter)           | inactive  | PHP        | Apache 2.0            |
+| [Create Third Places](https://createthirdplaces.com)           | [GitHub](https://github.com/orgs/createthirdplaces/repositories)           | new  | Java        | GPLv3           |
+
 | Epicyon                                                        | [GitLab](https://gitlab.com/bashrc2/epicyon)                   | new       | Python     | AGPLv3                | :white_check_mark: |
 | [eventoL](http://eventol.github.io/eventoL/)                   | [GitHub](https://github.com/eventoL/eventoL)                   | inactive  | Python     | GPLv3                 |
 | [Events Made Easy](https://www.e-dynamics.be/wordpress/)       | [GitHub](https://github.com/liedekef/events-made-easy/)        | mature    | PHP        | GPLv2.0               |
