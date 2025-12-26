@@ -29,6 +29,7 @@
 | Open Event                                                     | [GitHub](https://github.com/fossasia/open-event-server)        | mature    | Python     | Apache 2.0 & GPLv3    |
 | [Open Tech Calendar](https://opentechcalendar.co.uk/)          | [GitLab](https://gitlab.com/opentechcalendar/opentechcalendar) | inactive  | PHP        | BSD 3-Clause          |
 | [Openki](https://openki.net/)                                  | [Gitlab](https://gitlab.com/Openki/Openki/)                    | mature    | JavaScript | AGPLv3                |
+| [OpenMeet](https://platform.openmeet.net/)                     | [GitHub](https://github.com/OpenMeet-Team)                     | mature    | TypeScript | Apache 2.0            |
 | [OSEM](https://osem.io/)                                       | [GitHub](https://github.com/openSUSE/osem)                     | mature    | Ruby       | MIT                   |
 | [Pretix](https://pretix.eu/)                                   | [GitHub](https://github.com/pretix/pretix)                     | mature    | Python     | Apache 2.0            |
 | [Upcoming](https://upcoming.org/)                              | [GitHub](https://github.com/upcoming/upcoming-www)             | inactive  | JavaScript | Apache 2.0            |
