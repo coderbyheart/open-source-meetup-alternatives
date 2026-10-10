@@ -23,6 +23,7 @@
 | [Human Connection](https://human-connection.social/)           | [GitHub](https://github.com/Human-Connection/Human-Connection)   | inactive  | JavaScript | MIT                   |
 | [joind.in](https://joind.in/)                                  | [GitHub](https://github.com/joindin/joindin-web2)                | inactive  | PHP        | BSD 3-Clause          |
 | [Lauti](https://lauti.org/)                                    | [Codeberg](https://codeberg.org/Klasse-Methode/lauti)            | mature    | Golang     | AGPLv3                |
+| [MeetAgain](https://meetagain.org/)                            | [GitHub](https://github.com/xuedi/meetagain)                     | mature    | PHP        | EUPL 1.2              |
 | [Meetdown](https://meetdown.org/)                              | [GitHub](https://github.com/structr/meetdown)                    | inactive  | Structr    | Apache 2.0            |
 | Meetup Alternative                                             | [GitHub](https://github.com/Thinkmill/meetup-alternative)        | inactive  | JavaScript | unlicensed            |
 | [Mobilizon](https://mobilizon.org/)                            | [Framagit](https://framagit.org/kaihuri/mobilizon)               | mature    | Elixir     | AGPLv3                | :white_check_mark: |
